@@ -1,2 +1,3 @@
 # hello-world
-Getting used to GitHub
+
+How to make and commit changes, for once.
